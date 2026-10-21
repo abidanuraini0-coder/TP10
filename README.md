@@ -9,6 +9,7 @@ jwb:Warna disimpan di AppTheme karena warna merupakan bagian dari tampilan aplik
 2.Dua Properti Tambahan dan Alasannya
 
 1.HitPoints (HP): Digunakan untuk menyimpan jumlah darah karakter sehingga kondisi karakter dapat diketahui. Jika HP mencapai nol, karakter dapat dianggap kalah atau tidak dapat melanjutkan pertarungan.
+
 2.Mana: Digunakan untuk menyimpan energi sihir karakter, khususnya role MAGE. Properti ini membantu membedakan kebutuhan karakter penyihir dari role lain dan dapat digunakan untuk mengembangkan fitur kemampuan sihir pada tahap berikutnya.
 
 https://docs.google.com/document/d/1Ae24Qe-mdm-QX66V7TuVpmcLjVM-nJauDNHYF5Ktllc/edit?usp=sharing
