@@ -2,6 +2,12 @@
 <img width="1105" height="806" alt="Screenshot 2026-10-21 002629" src="https://github.com/user-attachments/assets/361cba9b-c2e7-437f-988b-a8e475d32ad8" />
 <img width="1101" height="943" alt="Screenshot 2026-10-21 004121" src="https://github.com/user-attachments/assets/3315b318-c26c-4240-b9cf-032b43ecc193" />
 
+
+<img width="1430" height="782" alt="image" src="https://github.com/user-attachments/assets/68bc8ea0-8878-44fb-98b7-03c0de56b72a" />
+<img width="1292" height="932" alt="Screenshot 2026-11-03 144016" src="https://github.com/user-attachments/assets/170b8205-e907-423f-98f8-a295fbf50cb7" />
+
+
+
 1.Mengapa Warna Disimpan di AppTheme?
 
 jwb:Warna disimpan di AppTheme karena warna merupakan bagian dari tampilan aplikasi, bukan data utama karakter. Jika warna diletakkan di class Character, class model akan bergantung pada kebutuhan visual antarmuka. Dengan memusatkan warna di AppTheme, perubahan tema dapat dilakukan di satu tempat tanpa mengubah class Character. Pemisahan ini membuat kode lebih terstruktur, mudah dirawat, dan sesuai dengan pemisahan tanggung jawab antara layer Model dan View
