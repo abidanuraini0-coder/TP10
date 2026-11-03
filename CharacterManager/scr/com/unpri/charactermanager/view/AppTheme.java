@@ -74,10 +74,10 @@ public final class AppTheme {
             new Font("SansSerif", Font.BOLD, 16);
 
     public static final Font BODY_FONT =
-            new Font("SansSerif", Font.PLAIN, 14);
+            new Font("SansSerif", Font.BOLD, 14);
 
     public static final Font SMALL_FONT =
-            new Font("SansSerif", Font.PLAIN, 12);
+            new Font("SansSerif", Font.BOLD, 12);
 
     public static final Font HIGH_LEVEL_FONT =
             new Font("SansSerif", Font.BOLD, 16);
